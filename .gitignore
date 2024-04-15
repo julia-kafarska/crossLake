@@ -1,0 +1,10 @@
+/models___/*
+/node_modules
+/admin/node_modules
+/admin/build
+.DS_Store
+.idea
+/dffModels/*
+/lstmModel/*
+/lstmModels/*
+/www
